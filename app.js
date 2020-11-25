@@ -1,5 +1,6 @@
 let a = prompt("votre matériel ?");
 let b = "ce matériel est inconnu au bataillon";
+
 switch (a) {
     case "souris" :
         alert("j'utilise une " + a);
